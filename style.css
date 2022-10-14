@@ -9,7 +9,7 @@ h2 {text-align: center;}
 h3 {text-align: center;}
 footer {text-align:center;}
 header { text-align: center;}
-body {
+body {margin: 0 36% ;
   color: #40789c;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 50px;
@@ -38,7 +38,7 @@ p {
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
-  width: 600px;
+  
 }
 
 img {
